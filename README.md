@@ -2,5 +2,5 @@
 
 ```yml
     steps:
-      - uses: schickling-actions/checkout-and-install
+      - uses: schickling-actions/checkout-and-install@main
 ```
