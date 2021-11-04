@@ -1,2 +1,6 @@
-# actions
-My personal collection of GitHub actions (I hate YAML 🥺)
+# checkout-and-install
+
+```yml
+    steps:
+      - uses: schickling-actions/checkout-and-install
+```
